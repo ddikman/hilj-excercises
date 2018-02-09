@@ -1,0 +1,11 @@
+{
+  "name": "hilj-excercises",
+  "version": "1.0.0",
+  "description": "How I learned Japanese excercises api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
